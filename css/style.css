@@ -1,0 +1,480 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.container{
+    width: 1140px;
+    margin:0px auto;
+    
+}
+
+/*Header part start*/
+.header{
+    height: 45px;
+    width: 100%;
+    float: left;
+}
+.logo{
+    height: 45px;
+    background-color: red;
+    width: 25%;
+    float: left;
+}
+
+.logo img {
+    height: 45px;
+    width: 100%;
+
+}
+.menu{
+    height: 45px;
+    background-color: yellow;
+    width: 40%;
+    float:left;
+}
+
+nav ul {
+
+list-style: none;
+}
+nav ul li {
+
+display: inline-block;
+
+padding: 10px 25px;
+}
+nav ul li a{
+
+text-decoration: none;
+
+color: black;
+
+font-size: 16px;
+}
+.social{
+    
+    background: purple;
+    width: 35%;
+    height: 45px;
+    float: left;
+}
+
+.social ul{
+    list-style: none;
+}
+.social ul li {
+    display: inline-block;
+    margin: 8px 6px;
+}
+
+.fa.fa-facebook{
+        background: #283E78;
+    padding: 6px 10px;
+    color: white;
+}
+
+.fa.fa-twitter{
+    background: #5DA9DD;
+    padding: 6px 10px;
+    color: white;
+}
+.fa.fa-linkedin{
+    background: #0073B0;
+    padding: 6px 10px;
+    color: white;
+}
+.fa.fa-google-plus{
+    background: #E60F10;
+    padding: 6px 10px;
+    color: white;
+}
+
+.fa.fa-sign-in{
+
+    padding: 6px 10px;
+    color: white;
+}
+
+
+
+
+.uture {
+    height: 600px;
+    width: 100%;
+    background-image: url(../Img/gg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.over {
+    width: 400px;
+    height: 400px;
+    background: #2766b53d;
+    margin: 100px 112px;
+}
+
+.over h1{
+    font-size: 60px;
+    text-align: center;
+}
+.over p{
+    text-align: center;
+}
+
+.over h3{
+    font-size: 24px;
+    border: 1px solid #6ECA1F;
+    background-color: #6ECA1F;
+    display: inline;
+    float: right;
+    margin-top: 65px;
+
+}
+.over h2{
+    border: 1px solid #6ECA1F;
+    background-color: #6ECA1F;
+    display: inline;
+    float: left;
+    margin-top: 66px;
+}
+
+}
+.icon-one{
+    height: 250px;
+    width: 100%;
+    float: left;
+}
+.concept{
+    height: 250px;
+    width: 25%;
+    background-color: yellow;
+    float: left;
+
+}
+.concept ul{
+         list-style: none;
+}
+.concept ul li{
+    display: inline-table;
+    margin: 30px 124px;
+}
+.concept p {
+        font-size: 25px;
+    text-align: center;
+}
+
+.fa.fa-check{
+    background: #647CD4;
+    padding: 13px 15px;
+    color: white;
+    border-radius: 100%;
+}   
+
+.btn{
+
+    background-color: green;
+    display: inline-block;
+    margin: 20px 96px;
+    border: none;
+    
+}
+.btn a{
+    text-decoration: none;
+    font-size: 17px;
+    color: white;
+}
+.loan{
+    height: 250px;
+    width: 25%;
+    background-color: red;
+    float: left;
+
+}
+
+.loan ul{
+ list-style: none;
+}
+.loan ul li{
+display: inline-table;
+    margin: 30px 124px;
+}
+.loan p {
+        font-size: 25px;
+    text-align: center;
+}
+
+
+.fa.fa-map-marker{
+   background: #02968A;
+    padding: 13px 17px;
+    color: white;
+    border-radius: 100%;}
+
+.finance{
+    height: 250px;
+    width: 25%;
+    background-color: purple;
+    float: left;
+}
+
+.finance ul{
+ list-style: none;
+}
+.finance ul li{
+display: inline-table;
+    margin: 30px 124px;
+}
+
+.finance p{
+	    font-size: 25px;
+    text-align: center;
+}
+.fa.fa-money{
+    background: #42B745;
+    padding: 13px 15px;
+    color: white; 
+    border-radius: 100%;
+}  
+
+
+.sign{
+    height: 250px;
+    width: 25%;
+    background-color: green;
+    float: left;
+}
+
+.sign ul{
+    list-style: none;
+}
+.sign ul li{
+display: inline-table;
+    margin: 30px 124px;
+
+}
+.fa.fa-user-plus{
+     background: #94DC6C;
+    padding: 13px 15px;
+    color: white;
+    border-radius: 100%;
+
+}
+.sign p{    font-size: 25px;
+    text-align: center;
+}
+
+
+.invest{
+    height: 250px;
+    width: 40%;
+    float: left;
+    background-color: yellow;
+    margin: 40px 55px;
+}
+.invest h3{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 26px;
+}
+
+.invest ul li {
+    margin: 7px 133px;
+}
+
+.land{
+    margin: 17px 128px;
+    border: none;
+    padding: 5px 7px;
+    background-color: green;
+
+}
+.land a {
+       text-decoration: none;
+    font-size: 15px;
+    color: white;
+}
+
+.money{
+    height: 250px;
+    width: 40%;
+    float: left;
+    background-color: yellow;
+    margin: 40px 55px;
+}
+
+.blog h2{
+        margin: 10px 542px;
+    color: green;
+    display: inline;
+}
+.blog h3,p {
+    margin: 14px;
+}
+
+
+.entrepreneur{
+    height: 150px;
+    width: 40%;
+    margin: 40px 55px;
+    background: green;
+    float: left;
+}
+.entre{
+    margin: -11px 177px;
+    background-color: #007eff;
+    padding: 5px 6px;
+    border: none;
+
+}
+.entre a{    
+    font-size: 16px;
+    text-decoration: none;
+    color: wheat;
+
+}
+.platform{
+    height: 150px;
+    width: 40%;
+    margin: 40px 55px;
+    background: pink;
+    float: left;    
+}
+
+.lent{
+    width: 100%;
+    height: 150px;
+    background-color: orange;
+    float: left;
+}
+.lent p{
+       display: inline;
+    margin: 12px 508px;
+}
+.lent ul{
+    list-style: none;
+}
+.lent ul li{
+  margin:5px 499px;
+}
+.fa.fa-credit-card{
+    background-color: white;
+
+}
+.future-loan {
+    width: 100%;
+    float: left;
+}
+.icon{
+    width: 100%;
+    float: left;
+}
+.inv{
+    width: 100%;
+    float: left;
+}
+.blog{
+     width: 100%;
+    float: left;
+}
+.lnt{
+    width: 100%;
+    float: left;
+
+} 
+.lose{
+  width: 100%;
+    float: left;  
+} 
+
+.trut{
+    width: 100%;
+    float: left;
+}
+.trust{
+    width: 100%;
+    height: 120px;
+    background-color:#21388c;
+    float: left;
+
+}
+.tru{
+       height: 120px;
+    width: 279px;
+    background-color: red;
+    margin: 0px auto; 
+}
+}
+.trust ul {
+    list-style: none;
+}
+.trust ul li{
+ margin: -20px -54px 24px 52px;
+    display: inline-block;
+}
+.fa.fa-star{
+           margin: 6px 18px;
+    font-size: 23px;
+    color: white;
+}
+.fa.fa-star-o{
+  background-color: #239ba0;
+    padding: 5px 8px;
+    color: white;
+}
+.Mention{
+    width: 100%;
+    float: left;
+}
+
+.Lendino-one{
+       height: 150px;
+    width: 20%;
+    background: #808080;
+    float: left;
+}
+.Lendino-one h3{
+         color: white;
+    margin: 35px 29px 8px 50px;
+}
+.Lendino-one h4{
+margin: 1px 50px;
+}
+
+
+.Lendino-two{
+     height: 150px;
+    width: 20%;
+    background:green;
+    float: left;
+}
+.Lendino-two h3{
+         color: black;
+    margin: 10px 29px 8px 50px;
+}
+.Lendino-two h4{
+    color: white;
+    margin: 5px 45px;
+}
+
+.copywrite{
+    width: 100%;
+    float:left;
+}
+.copy{
+    height: 25px;
+    width: 100%
+    background:pink;
+
+}
+.addr{
+    width: 50%;
+    height: 80px;
+    background-color: yellow;
+    float: left;
+}
+.addre{
+    width: 50%;
+    height: 80px;
+    background-color: red;
+    float: left;
+}
